@@ -16,7 +16,7 @@ Este projeto é um **simulador de investimentos em Fundos Imobiliários (FIIs)**
 
 ## 📁 Arquivo
 
-- `simulador-fiis.xlsx` → arquivo principal do simulador (Excel)
+- `PROJETO SIMULADOR DE INVESTIMENTO.xlsx` → arquivo principal do simulador (Excel)
 
 ## 💡 Exemplo de uso
 
